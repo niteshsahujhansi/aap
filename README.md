@@ -1,4 +1,4 @@
-# aap directory contains Solution Set 2 - A functioning web app
+# aap (android_app_points) directory contains Solution Set 2 - A functioning web app
 
 video link - https://youtu.be/dTylXazvBC8
 
